@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '31452'
     url: http://www.gutenberg.org/2009/agents/31452
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25604#A-Manual-of-the-Malay-languageWith-an-Introductory-Sketch-of-the-Sanskrit-Element-in-Malay
 gutenberg_issued: '2008-05-26'
 gutenberg_type: Text
 identifiers:

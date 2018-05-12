@@ -1,0 +1,28 @@
+_repo: A-Manual-of-the-Malay-languageWith-an-Introductory-Sketch-of-the-Sanskrit-Element-in-Malay_25604
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Maxwell, William Edward, Sir
+    birthdate: 1846
+    deathdate: 1897
+    gutenberg_agent_id: '31452'
+    url: http://www.gutenberg.org/2009/agents/31452
+description: ''
+gutenberg_issued: '2008-05-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25604'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Malay language -- Grammar'
+- !lcc 'PL'
+title: 'A Manual of the Malay language
+
+  With an Introductory Sketch of the Sanskrit Element in Malay'
+url: http://www.gutenberg.org/ebooks/25604
